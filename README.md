@@ -39,21 +39,21 @@ This project conducts a thorough analysis of S&P 500 stock data, exploring trend
 
   ### Price Change Analysis
   Analysing the change in prices of the stock overtime
-  ![image](images/positive_comments.png)
+  ![image](images/priceChange.png)
 
   ### Moving Average
   Analysing the Moving average of the various stocks
-  ![image](images/positive_comments.png)
+  ![image](images/movingAverage.png)
 
   ### Closing Price Change in Apple, Netflix & Amazon Stock
   Analysing Closing price change in Apple stock
-  ![image](images/positive_comments.png)
+  ![image](images/appleClosingPricechange.png)
 
   Analysing Closing price change in Netflix stock
-  ![image](images/positive_comments.png)
+  ![image](images/netflixClosingpricechange.png)
 
   Analysing Closing price change in Amazon stock
-  ![image](images/positive_comments.png)
+  ![image](images/amazonClosingpricechange.png)
 
   ### Resampling Analysis
   Performing resampling analysis of closing price of Apple Stock
