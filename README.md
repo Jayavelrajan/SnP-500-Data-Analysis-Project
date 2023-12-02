@@ -59,13 +59,13 @@ This project conducts a thorough analysis of S&P 500 stock data, exploring trend
   Performing resampling analysis of closing price of Apple Stock
 
   #### Resampling data on Date basis
-  ![image](images/positive_comments.png)
+  ![image](images/resamp-date-basis.png)
   #### Resampling data on Montly basis
-  ![image](images/positive_comments.png)
+  ![image](images/resamp-mon-basis.png)
   #### Resampling data on Yearly basis
-  ![image](images/positive_comments.png)
+  ![image](images/resamp-year-basis.png)
   #### Resampling data on Quarterly basis
-  ![image](images/positive_comments.png)
+  ![image](images/resamp-quar-basis.png)
 
   ### Correlation Among Tech Companies
   Analysing Whether closing prices of these tech companies (Amazon,Apple,Facebook,Google,Netflix,Microsoft) are correlated 
