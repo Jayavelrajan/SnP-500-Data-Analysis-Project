@@ -72,9 +72,9 @@ This project conducts a thorough analysis of S&P 500 stock data, exploring trend
   or not
 
   ## Pair Plot
-  ![image](images/positive_comments.png)
+  ![image](images/correlationAmongComp-pairplot.png)
   ## Heatmap
-  ![image](images/positive_comments.png)
+  ![image](images/correlationAmongComp-heatmap.png)
 
   Conclusions :
   Closing price of Google and Microsoft, Facebook and Microsoft, Google and Facebook, Amazon and Google are well 
