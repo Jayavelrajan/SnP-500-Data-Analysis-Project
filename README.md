@@ -84,7 +84,7 @@ This project conducts a thorough analysis of S&P 500 stock data, exploring trend
   Analysing Whether Daily change in Closing price of stocks or Daily Returns in Stock are co-related or not
 
   ## Pair Grid
-  ![image](images/positive_comments.png)
+  ![image](images/pairGrid-DCvsDR.png)
 
 
   ### Amazon and Google stocks has highest correlation between them
