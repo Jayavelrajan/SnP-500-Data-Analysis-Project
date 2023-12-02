@@ -73,6 +73,20 @@ This project conducts a thorough analysis of S&P 500 stock data, exploring trend
   Analysing Whether Daily change in Closing price of stocks or Daily Returns in Stock are co-related or not
 
   ## Pair Grid
+
+  # Usage
+
+  Clone the repository:
+
+  ```bash
+  git clone https://github.com/your-username/your-repository.git
+  cd your-repository
+  ```
+  Latest Version of Anaconda software environment is required!
+
+
+ # License
+ This project is licensed under the MIT License.
   
 
   
