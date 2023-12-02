@@ -48,7 +48,7 @@ This project conducts a thorough analysis of S&P 500 stock data, exploring trend
 
   Analysing Closing price change in Netflix stock
 
-   Analysing Closing price change in Amazon stock
+  Analysing Closing price change in Amazon stock
 
   ### Resampling Analysis
   Performing resampling analysis of closing price of Apple Stock
