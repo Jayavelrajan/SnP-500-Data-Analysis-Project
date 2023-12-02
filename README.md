@@ -56,7 +56,27 @@ This project conducts a thorough analysis of S&P 500 stock data, exploring trend
   #### Resampling data on Date basis
   #### Resampling data on Montly basis
   #### Resampling data on Yearly basis
-  #### Resampling data on Quarterly basis 
+  #### Resampling data on Quarterly basis
+
+  ### Correlation Among Tech Companies
+  Analysing Whether closing prices of these tech companies (Amazon,Apple,Facebook,Google,Netflix,Microsoft) are correlated 
+  or not
+
+  ## Pair Plot
+  ## Heatmap
+
+  Conclusions :
+  Closing price of Google and Microsoft, Facebook and Microsoft, Google and Facebook, Amazon and Google are well 
+  correlated. Closing prices have a co-relation of 0.97
+
+  ### Daily Change vs. Daily Returns
+  Analysing Whether Daily change in Closing price of stocks or Daily Returns in Stock are co-related or not
+
+  ## Pair Grid
+  
+
+  
+  
   
   
 
