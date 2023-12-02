@@ -39,31 +39,42 @@ This project conducts a thorough analysis of S&P 500 stock data, exploring trend
 
   ### Price Change Analysis
   Analysing the change in prices of the stock overtime
+  ![image](images/positive_comments.png)
 
   ### Moving Average
   Analysing the Moving average of the various stocks
+  ![image](images/positive_comments.png)
 
   ### Closing Price Change in Apple, Netflix & Amazon Stock
   Analysing Closing price change in Apple stock
+  ![image](images/positive_comments.png)
 
   Analysing Closing price change in Netflix stock
+  ![image](images/positive_comments.png)
 
   Analysing Closing price change in Amazon stock
+  ![image](images/positive_comments.png)
 
   ### Resampling Analysis
   Performing resampling analysis of closing price of Apple Stock
 
   #### Resampling data on Date basis
+  ![image](images/positive_comments.png)
   #### Resampling data on Montly basis
+  ![image](images/positive_comments.png)
   #### Resampling data on Yearly basis
+  ![image](images/positive_comments.png)
   #### Resampling data on Quarterly basis
+  ![image](images/positive_comments.png)
 
   ### Correlation Among Tech Companies
   Analysing Whether closing prices of these tech companies (Amazon,Apple,Facebook,Google,Netflix,Microsoft) are correlated 
   or not
 
   ## Pair Plot
+  ![image](images/positive_comments.png)
   ## Heatmap
+  ![image](images/positive_comments.png)
 
   Conclusions :
   Closing price of Google and Microsoft, Facebook and Microsoft, Google and Facebook, Amazon and Google are well 
@@ -73,6 +84,7 @@ This project conducts a thorough analysis of S&P 500 stock data, exploring trend
   Analysing Whether Daily change in Closing price of stocks or Daily Returns in Stock are co-related or not
 
   ## Pair Grid
+  ![image](images/positive_comments.png)
 
 
   ### Amazon and Google stocks has highest correlation between them
