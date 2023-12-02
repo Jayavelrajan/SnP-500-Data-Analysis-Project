@@ -87,6 +87,12 @@ This project conducts a thorough analysis of S&P 500 stock data, exploring trend
 
  # License
  This project is licensed under the MIT License.
+
+
+ ## Amazon and Google stocks has highest correlation between them
+
+### Conclusion: If Amazon stocks decreases, then there is a 54% probablity that Google stocks also decreases
+
   
 
   
