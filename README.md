@@ -20,7 +20,7 @@ This project conducts a thorough analysis of S&P 500 stock data, exploring trend
   # Installation
 
   To run this project, you need the following dependencies installed:
-- pandas.
+- pandas
 - seaborn
 - numpy
 - matplotlib
