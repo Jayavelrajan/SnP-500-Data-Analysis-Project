@@ -98,7 +98,7 @@ This project conducts a thorough analysis of S&P 500 stock data, exploring trend
   git clone https://github.com/your-username/your-repository.git](https://github.com/Jayavelrajan/SnP-500-Data-Analysis-Project.git
   cd your-repository
   ```
-  Latest Version of Anaconda software environment is required!
+  Latest Version of Anaconda software environment is required!!
 
 
  # License
