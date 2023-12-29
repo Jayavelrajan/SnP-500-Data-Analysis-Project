@@ -1,4 +1,4 @@
-# S&P500 Data Analysis Project
+# S&P500 Data Analysis Project s
 
 # Overview
 This project conducts a thorough analysis of S&P 500 stock data, exploring trends, moving averages, and correlations among tech giants, providing insights for investors.
